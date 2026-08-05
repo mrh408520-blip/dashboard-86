@@ -1,0 +1,11 @@
+{
+  "name": "n8n-local",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "n8n": "^1.111.0"
+  }
+}
